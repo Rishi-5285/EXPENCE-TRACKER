@@ -69,25 +69,3 @@ Simplicity and Robustness:
 
 We prioritize simplicity for clarity and maintainability, ensuring each code block serves a specific purpose. While basic error handling is in place using messagebox.showwarning, there's room for further enhancements to fortify the code's robustness. The aim is a balanced approach, making the application both easy to understand and resilient.
 
-## Self Assessment
-|       Metric       | 4 | 3 | 2 | 1 |
-|:------------------:|:-:|:-:|:-:|:-:|
-| Code Reusability   |   |   | ✔ |   |
-| Maintainability    |   | ✔ |   |   |
-| Scalability        | ✔ |   |   |   |
-| Execution          | ✔ |   |   |   |
-| Originality        |   |   | ✔ |   |
-| Overall Impression |   | ✔ |   |   |
-
-## Group Assessment
-|  SR-CODE |       MEMBER      | GRADE |   CONTRIBUTION  |
-|:--------:|:-----------------:|:-----:|:---------------:|
-| 21-02313 | OCAMPO, ZHENREL   | 34%   | Lead Programmer |
-| 20-58433 | BON, PETER AMADOR | 22%   | Troubleshooter  |
-| 21-58727 | HERILLA, LAURENCE | 22%   | Debugger        |
-| 21-02154 | CASTILLO, KHASTIN | 22%   | Beta Tester     |
-|          | TOTAL             | 100%  |                 |
-
-## License
-
-This project is licensed under the MIT License.
